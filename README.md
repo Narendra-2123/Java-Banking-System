@@ -63,5 +63,3 @@ Thank you for banking with us!
 ## 👨‍💻 Author
 
 **Narendra**
-
-*Associate System Engineer Applicant*
